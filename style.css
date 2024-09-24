@@ -87,6 +87,7 @@ button:hover {
     .pic{
         margin-top: 20px;
         width: 100%;
+        text-decoration: underline;
     }
     .profile-pic {
         width: 80px;
